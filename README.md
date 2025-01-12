@@ -1,2 +1,2 @@
-# estudos-l-gica-com-python
+# Estudos-Lógica-com-Python
 Repositório de estudos de lógica de programação com Python
