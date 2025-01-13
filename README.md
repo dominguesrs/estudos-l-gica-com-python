@@ -9,4 +9,4 @@ Este repositório tem como objetivo compartilhar um pouco dos meus estudos de l�
 
 Ah, também há diversos algoritmos de estudos com python na prática! Espero que o conteúdo ajude em sua jornada e estudos ;-)
 
-# Teste de autenticacao via ssh
+# Teste de autenticacao via Autenticação de dois fatores (2FA)
